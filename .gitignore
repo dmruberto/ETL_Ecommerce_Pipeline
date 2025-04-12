@@ -1,0 +1,19 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore the outputs directory (logs and cleaned data)
+outputs/
+
+# Ignore any sensitive files (passwords, API keys, etc.)
+*.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
