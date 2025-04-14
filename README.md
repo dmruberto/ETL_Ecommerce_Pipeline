@@ -8,7 +8,6 @@ The pipeline is developed using Python (pandas), MySQL, and follows a modular st
 The repository follows a modular structure:
 
 ETL_Ecommerce_Pipeline/
-
 │
 ├── data/                                       # Main data folder  
 │   ├── raw/                                    # Contains the original dataset in Excel (.xlsx)  
